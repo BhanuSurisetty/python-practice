@@ -1,0 +1,3 @@
+This write command will overrite the existing text
+This will append the existing data in the file
+This is a Read Write command
